@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+pipenv = "==2024.4.1"
+pre-commit = "==4.2.0"
+
+[requires]
+python_version = "3.12"
